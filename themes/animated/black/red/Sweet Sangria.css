@@ -2,8 +2,8 @@
 /*Font*/
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
 /*Widget box*/
-.sc-hNKHps,
-.hTPFel {
+.sc-eEOqmf,
+.eIdXlS {
   overflow: hidden;
   width: 350px;
   height: 67px;
@@ -19,28 +19,28 @@
   height: 100%;
 }
 /*Info shadow*/
-.sc-jTYCaT,
-.cuzWei {
+sc-jmNpzm,
+.dWcfAp {
   box-shadow: none;
   width: 100%;
   height: 100%;
 }
 /*Track name*/
-.sc-fvNpTx,
-.gokLMG {
-  color: rgba(255, 255, 255, 1);
+.sc-hsOonA,
+.fCqWPu {
+  color: rgba(250, 92, 118, 1);
   font-family: 'Lexend', sans-serif;
   font-size: 18px;
   text-shadow: none;
   text-transform: none;
   position: relative;
   left: 5px;
-  top: 5.2px;
+  top: 5.3px;
 }
 /*Artist name*/
-.sc-HzFiz,
-.bSoNpP {
-  color: rgba(250, 92, 118, 1);
+.sc-hjriPb,
+.kIrAtT {
+  color: rgba(255, 255, 255, 1);
   font-family: 'Lexend', sans-serif;
   font-size: 12px;
   font-weight: bold;
@@ -48,11 +48,11 @@
   text-transform: none;
   position: relative;
   left: 5px;
-  top: 5.5px;
+  top: 5px;
 }
 /*Image cover*/
-.sc-dsQDmV,
-.clTnkj {
+.sc-fmRtwQ,
+.bZbgph {
   animation: cover-spin 20s linear infinite,
     cover-border 5s ease-out infinite alternate both;
   width: 59px;
